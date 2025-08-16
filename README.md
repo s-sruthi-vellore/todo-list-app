@@ -3,6 +3,10 @@ A simple and responsive To-Do List App built using HTML, CSS, and JavaScript. Th
 
 ---
 
+👉 **[Live Demo](https://s-sruthi-vellore.github.io/todo-list-app/)**  
+
+---
+
 ## 🚀 Features
 - ➕ Add new tasks easily
 - ✅ Mark tasks as completed
